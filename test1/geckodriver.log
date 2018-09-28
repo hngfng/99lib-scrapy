@@ -1,0 +1,1109 @@
+1532424990625	geckodriver	INFO	geckodriver 0.21.0
+1532424990633	geckodriver	INFO	Listening on 127.0.0.1:38043
+1532424993409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.68GlTzLPSFI9"
+*** You are running in headless mode.
+1532425000021	Marionette	INFO	Listening on port 38052
+1532425000056	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532425266107	geckodriver	INFO	geckodriver 0.21.0
+1532425266115	geckodriver	INFO	Listening on 127.0.0.1:38204
+1532425269136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.tbelwqRxyxxa"
+*** You are running in headless mode.
+1532425273036	Marionette	INFO	Listening on port 38212
+1532425273550	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532425348048	geckodriver	INFO	geckodriver 0.21.0
+1532425348057	geckodriver	INFO	Listening on 127.0.0.1:38315
+1532425351079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.cJMU9Mlx8X8K"
+*** You are running in headless mode.
+1532425355044	Marionette	INFO	Listening on port 38323
+1532425355390	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532425757375	geckodriver	INFO	geckodriver 0.21.0
+1532425757382	geckodriver	INFO	Listening on 127.0.0.1:38613
+1532425760425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.sqTZwvLS7SMC"
+*** You are running in headless mode.
+1532425763850	Marionette	INFO	Listening on port 38621
+1532425764242	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532425811408	geckodriver	INFO	geckodriver 0.21.0
+1532425811415	geckodriver	INFO	Listening on 127.0.0.1:38684
+1532425814457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.aZcaUxzlzeH7"
+*** You are running in headless mode.
+1532425817717	Marionette	INFO	Listening on port 38692
+1532425818363	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532426007214	geckodriver	INFO	geckodriver 0.21.0
+1532426007222	geckodriver	INFO	Listening on 127.0.0.1:38791
+1532426010253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.tJj5q4rk0tuO"
+*** You are running in headless mode.
+1532426013582	Marionette	INFO	Listening on port 38799
+1532426014061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532483114964	geckodriver	INFO	geckodriver 0.21.0
+1532483114972	geckodriver	INFO	Listening on 127.0.0.1:56366
+1532483117805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.fOoSNgaHOUKq"
+*** You are running in headless mode.
+1532483127161	Marionette	INFO	Listening on port 56377
+1532483127628	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532484328459	geckodriver	INFO	geckodriver 0.21.0
+1532484328466	geckodriver	INFO	Listening on 127.0.0.1:57779
+1532484331491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.CvVNiU5PXBm5"
+*** You are running in headless mode.
+1532484341075	Marionette	INFO	Listening on port 57787
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2688, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1532484341546	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532484406735	geckodriver	INFO	geckodriver 0.21.0
+1532484406743	geckodriver	INFO	Listening on 127.0.0.1:57856
+1532484409708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.0c5qscnC7V2g"
+*** You are running in headless mode.
+1532484414581	Marionette	INFO	Listening on port 57864
+1532484414661	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532488380170	geckodriver	INFO	geckodriver 0.21.0
+1532488380177	geckodriver	INFO	Listening on 127.0.0.1:60216
+1532488383445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.UKnInlWkQDFu"
+*** You are running in headless mode.
+1532488411672	Marionette	INFO	Listening on port 60225
+1532488411991	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532488465686	geckodriver	INFO	geckodriver 0.21.0
+1532488465695	geckodriver	INFO	Listening on 127.0.0.1:60317
+1532488468701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ECyK1mREoTwe"
+*** You are running in headless mode.
+1532488474853	Marionette	INFO	Listening on port 60327
+1532488476190	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532488517531	geckodriver	INFO	geckodriver 0.21.0
+1532488517538	geckodriver	INFO	Listening on 127.0.0.1:60394
+1532488520540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.hlfJsKNg5rCK"
+*** You are running in headless mode.
+1532488536322	Marionette	INFO	Listening on port 60404
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 30164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532488536471	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532488568459	geckodriver	INFO	geckodriver 0.21.0
+1532488568469	geckodriver	INFO	Listening on 127.0.0.1:60474
+1532488571570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ua1PrRDjRPsO"
+*** You are running in headless mode.
+1532488579159	Marionette	INFO	Listening on port 60483
+1532488579186	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532497350726	geckodriver	INFO	geckodriver 0.21.0
+1532497350736	geckodriver	INFO	Listening on 127.0.0.1:63110
+1532497353579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.6Pg1Uk9zmqfm"
+*** You are running in headless mode.
+1532497358715	Marionette	INFO	Listening on port 63121
+1532497359380	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532497963614	geckodriver	INFO	geckodriver 0.21.0
+1532497963622	geckodriver	INFO	Listening on 127.0.0.1:15414
+1532497966596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.aIiHIsGhwf0x"
+*** You are running in headless mode.
+1532497970154	Marionette	INFO	Listening on port 15423
+1532497971014	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532499215563	geckodriver	INFO	geckodriver 0.21.0
+1532499215572	geckodriver	INFO	Listening on 127.0.0.1:15889
+1532499218579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.uCT3Igs0bYNY"
+*** You are running in headless mode.
+1532499232143	Marionette	INFO	Listening on port 15898
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532499232315	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532499285755	geckodriver	INFO	geckodriver 0.21.0
+1532499285768	geckodriver	INFO	Listening on 127.0.0.1:15976
+1532499288787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.hLDMdwrWxHEx"
+*** You are running in headless mode.
+1532499296733	Marionette	INFO	Listening on port 15986
+1532499297012	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532499521741	geckodriver	INFO	geckodriver 0.21.0
+1532499521751	geckodriver	INFO	Listening on 127.0.0.1:16105
+1532499524874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.fwJWk1NGxAiI"
+*** You are running in headless mode.
+1532499529237	Marionette	INFO	Listening on port 16114
+1532499529818	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532499589553	geckodriver	INFO	geckodriver 0.21.0
+1532499589563	geckodriver	INFO	Listening on 127.0.0.1:16187
+1532499592590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.eVmN4W4yz01o"
+*** You are running in headless mode.
+1532499600615	Marionette	INFO	Listening on port 16196
+1532499601112	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532500359085	geckodriver	INFO	geckodriver 0.21.0
+1532500359094	geckodriver	INFO	Listening on 127.0.0.1:17048
+1532500361830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.edgZWs1m7K7D"
+*** You are running in headless mode.
+1532500367936	Marionette	INFO	Listening on port 17060
+1532500368444	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532500696573	geckodriver	INFO	geckodriver 0.21.0
+1532500696579	geckodriver	INFO	Listening on 127.0.0.1:17688
+1532500699569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.dCDqbCHpqI41"
+*** You are running in headless mode.
+1532500704521	Marionette	INFO	Listening on port 17700
+1532500705284	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501025698	geckodriver	INFO	geckodriver 0.21.0
+1532501025706	geckodriver	INFO	Listening on 127.0.0.1:18317
+1532501028682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.L3JQD5ZiM32o"
+*** You are running in headless mode.
+1532501032806	Marionette	INFO	Listening on port 18329
+1532501033403	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501434144	geckodriver	INFO	geckodriver 0.21.0
+1532501434152	geckodriver	INFO	Listening on 127.0.0.1:19143
+1532501436946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.07dJOPXMfl0Y"
+*** You are running in headless mode.
+1532501476691	Marionette	INFO	Listening on port 19155
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 37992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0055,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1532501477125	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501572461	geckodriver	INFO	geckodriver 0.21.0
+1532501572469	geckodriver	INFO	Listening on 127.0.0.1:19480
+1532501575250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ju3T68Ldgajw"
+*** You are running in headless mode.
+1532501586485	Marionette	INFO	Listening on port 19495
+1532501588602	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501694299	geckodriver	INFO	geckodriver 0.21.0
+1532501694308	geckodriver	INFO	Listening on 127.0.0.1:19798
+1532501697336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.C7w87Vfu5XNM"
+*** You are running in headless mode.
+1532501701336	Marionette	INFO	Listening on port 19812
+1532501702452	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501768351	geckodriver	INFO	geckodriver 0.21.0
+1532501768362	geckodriver	INFO	Listening on 127.0.0.1:20014
+1532501771433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.yd3KdVIiYePk"
+*** You are running in headless mode.
+1532501802824	Marionette	INFO	Listening on port 20033
+1532501803288	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532501963354	geckodriver	INFO	geckodriver 0.21.0
+1532501963361	geckodriver	INFO	Listening on 127.0.0.1:20759
+1532501966486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.UO2hjOPAg4Ni"
+*** You are running in headless mode.
+1532502000378	Marionette	INFO	Listening on port 20779
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 42012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532502000558	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532502040706	geckodriver	INFO	geckodriver 0.21.0
+1532502040715	geckodriver	INFO	Listening on 127.0.0.1:21068
+1532502043727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.co0F8JQ4gajj"
+*** You are running in headless mode.
+1532502099154	Marionette	INFO	Listening on port 21081
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 42164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532502100282	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532502363662	geckodriver	INFO	geckodriver 0.21.0
+1532502363670	geckodriver	INFO	Listening on 127.0.0.1:22042
+1532502366682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ZnOx22NjAAU8"
+*** You are running in headless mode.
+1532502391762	Marionette	INFO	Listening on port 22062
+1532502391928	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 43456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532502428544	geckodriver	INFO	geckodriver 0.21.0
+1532502428552	geckodriver	INFO	Listening on 127.0.0.1:22307
+1532502431553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.OoIPRNLWGz7A"
+*** You are running in headless mode.
+1532502457000	Marionette	INFO	Listening on port 22323
+1532502457400	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532502572142	geckodriver	INFO	geckodriver 0.21.0
+1532502572150	geckodriver	INFO	Listening on 127.0.0.1:22735
+1532502575123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.V0PEeVPsi9gI"
+*** You are running in headless mode.
+1532502580579	Marionette	INFO	Listening on port 22751
+1532502580746	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532502624994	geckodriver	INFO	geckodriver 0.21.0
+1532502625006	geckodriver	INFO	Listening on 127.0.0.1:22943
+1532502628635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.UzhixXTaJGj3"
+*** You are running in headless mode.
+1532502667182	Marionette	INFO	Listening on port 22958
+1532502667245	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503058105	geckodriver	INFO	geckodriver 0.21.0
+1532503058117	geckodriver	INFO	Listening on 127.0.0.1:24231
+1532503060972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.GrW46xm0Ld1G"
+*** You are running in headless mode.
+1532503065375	Marionette	INFO	Listening on port 24252
+1532503065388	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503158638	geckodriver	INFO	geckodriver 0.21.0
+1532503158648	geckodriver	INFO	Listening on 127.0.0.1:24558
+1532503161663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.7ALebEVuGQZ8"
+*** You are running in headless mode.
+1532503168960	Marionette	INFO	Listening on port 24571
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 39436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532503169282	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503380714	geckodriver	INFO	geckodriver 0.21.0
+1532503380722	geckodriver	INFO	Listening on 127.0.0.1:25199
+1532503383589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.Krm0MsFhONBj"
+*** You are running in headless mode.
+1532503391907	Marionette	INFO	Listening on port 25220
+1532503392309	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503571261	geckodriver	INFO	geckodriver 0.21.0
+1532503571269	geckodriver	INFO	Listening on 127.0.0.1:25812
+1532503574116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.nZUghM4GDicj"
+*** You are running in headless mode.
+1532503587152	Marionette	INFO	Listening on port 25831
+1532503587280	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 45468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503709270	geckodriver	INFO	geckodriver 0.21.0
+1532503709281	geckodriver	INFO	Listening on 127.0.0.1:26264
+1532503712271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.IuvDbbOPUllG"
+*** You are running in headless mode.
+1532503717997	Marionette	INFO	Listening on port 26282
+1532503719776	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532503814701	geckodriver	INFO	geckodriver 0.21.0
+1532503814709	geckodriver	INFO	Listening on 127.0.0.1:26600
+1532503818160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.z0VEsreWctZa"
+*** You are running in headless mode.
+1532503833701	Marionette	INFO	Listening on port 26616
+1532503835717	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532504628530	geckodriver	INFO	geckodriver 0.21.0
+1532504628539	geckodriver	INFO	Listening on 127.0.0.1:28584
+1532504631273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.04aFzSwf56eX"
+*** You are running in headless mode.
+1532504659474	Marionette	INFO	Listening on port 28609
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532504659819	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532505898820	geckodriver	INFO	geckodriver 0.21.0
+1532505898826	geckodriver	INFO	Listening on 127.0.0.1:2299
+1532505901767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.Futaixpj8wx7"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532505914359	Marionette	INFO	Listening on port 2322
+1532505915272	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532506005542	geckodriver	INFO	geckodriver 0.21.0
+1532506005554	geckodriver	INFO	Listening on 127.0.0.1:2551
+1532506008661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.vKDvzhN4oQtZ"
+*** You are running in headless mode.
+1532506015299	Marionette	INFO	Listening on port 2566
+1532506015786	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532507475738	geckodriver	INFO	geckodriver 0.21.0
+1532507475759	geckodriver	INFO	Listening on 127.0.0.1:5902
+1532507478769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.Rf9CSNwWkNim"
+*** You are running in headless mode.
+1532507485821	Marionette	INFO	Listening on port 5917
+1532507486424	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532507923600	geckodriver	INFO	geckodriver 0.21.0
+1532507923630	geckodriver	INFO	Listening on 127.0.0.1:6599
+1532507926641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.rcm1THEFIqUF"
+*** You are running in headless mode.
+1532507930532	Marionette	INFO	Listening on port 6611
+1532507931581	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532508145796	geckodriver	INFO	geckodriver 0.21.0
+1532508145815	geckodriver	INFO	Listening on 127.0.0.1:6980
+1532508148868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.zGjYXUnWF3EO"
+*** You are running in headless mode.
+1532508152349	Marionette	INFO	Listening on port 6992
+1532508153275	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532509765854	geckodriver	INFO	geckodriver 0.21.0
+1532509765878	geckodriver	INFO	Listening on 127.0.0.1:9658
+1532509768904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.p62FyAsGh1X4"
+*** You are running in headless mode.
+1532509773114	Marionette	INFO	Listening on port 9670
+1532509773618	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532510583102	geckodriver	INFO	geckodriver 0.21.0
+1532510583131	geckodriver	INFO	Listening on 127.0.0.1:4272
+1532510586159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.UablDgJFvjCP"
+*** You are running in headless mode.
+1532510590231	Marionette	INFO	Listening on port 4284
+1532510590896	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532510619029	geckodriver	INFO	geckodriver 0.21.0
+1532510619048	geckodriver	INFO	Listening on 127.0.0.1:4370
+1532510622076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.XWUDPORLFyoE"
+*** You are running in headless mode.
+1532510625736	Marionette	INFO	Listening on port 4382
+1532510626474	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532510781557	geckodriver	INFO	geckodriver 0.21.0
+1532510781585	geckodriver	INFO	Listening on 127.0.0.1:4695
+1532510784524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.w0TEVCeEZxtP"
+*** You are running in headless mode.
+1532510788602	Marionette	INFO	Listening on port 4707
+1532510789090	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532510934021	geckodriver	INFO	geckodriver 0.21.0
+1532510934040	geckodriver	INFO	Listening on 127.0.0.1:4964
+1532510937068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.GFbYLxEL6dkk"
+*** You are running in headless mode.
+1532510941235	Marionette	INFO	Listening on port 4976
+1532510941578	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511035715	geckodriver	INFO	geckodriver 0.21.0
+1532511035745	geckodriver	INFO	Listening on 127.0.0.1:5157
+1532511038799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.16wXC7oEyGkZ"
+*** You are running in headless mode.
+1532511042378	Marionette	INFO	Listening on port 5169
+1532511043197	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511191210	geckodriver	INFO	geckodriver 0.21.0
+1532511191229	geckodriver	INFO	Listening on 127.0.0.1:5436
+1532511194247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.x7cA456Pryup"
+*** You are running in headless mode.
+1532511198611	Marionette	INFO	Listening on port 5448
+1532511198875	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511233869	geckodriver	INFO	geckodriver 0.21.0
+1532511233897	geckodriver	INFO	Listening on 127.0.0.1:5574
+1532511236936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.G4ZHYLkcNWGZ"
+*** You are running in headless mode.
+1532511250397	Marionette	INFO	Listening on port 5586
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532511250683	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511285343	geckodriver	INFO	geckodriver 0.21.0
+1532511285365	geckodriver	INFO	Listening on 127.0.0.1:5710
+1532511288413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.odK6UHI6PtmJ"
+*** You are running in headless mode.
+1532511294039	Marionette	INFO	Listening on port 5722
+1532511294439	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511349964	geckodriver	INFO	geckodriver 0.21.0
+1532511349981	geckodriver	INFO	Listening on 127.0.0.1:5851
+1532511353012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.CKuDG7H6slYv"
+*** You are running in headless mode.
+1532511359661	Marionette	INFO	Listening on port 5865
+1532511360143	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511517764	geckodriver	INFO	geckodriver 0.21.0
+1532511517781	geckodriver	INFO	Listening on 127.0.0.1:6160
+1532511520828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.jgBloaOu6Z6c"
+*** You are running in headless mode.
+1532511524666	Marionette	INFO	Listening on port 6172
+1532511525147	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511596911	geckodriver	INFO	geckodriver 0.21.0
+1532511596933	geckodriver	INFO	Listening on 127.0.0.1:6321
+1532511600003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.tZEoyDzhF556"
+*** You are running in headless mode.
+1532511603319	Marionette	INFO	Listening on port 6333
+1532511603360	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532511686676	geckodriver	INFO	geckodriver 0.21.0
+1532511686699	geckodriver	INFO	Listening on 127.0.0.1:6493
+1532511689705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.FYZGHiaJ9uir"
+*** You are running in headless mode.
+1532511693233	Marionette	INFO	Listening on port 6506
+1532511694790	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532569205059	geckodriver	INFO	geckodriver 0.21.0
+1532569205070	geckodriver	INFO	Listening on 127.0.0.1:19564
+1532569208228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.93o4MEZ8d5n1"
+*** You are running in headless mode.
+1532569219114	Marionette	INFO	Listening on port 19600
+1532569219330	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532569571918	geckodriver	INFO	geckodriver 0.21.0
+1532569571936	geckodriver	INFO	Listening on 127.0.0.1:20275
+1532569574956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.6crX98PdjKg8"
+*** You are running in headless mode.
+1532569579444	Marionette	INFO	Listening on port 20287
+1532569579879	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532569833211	geckodriver	INFO	geckodriver 0.21.0
+1532569833219	geckodriver	INFO	Listening on 127.0.0.1:20829
+1532569836187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ExJKTbzSzKV0"
+*** You are running in headless mode.
+1532569847873	Marionette	INFO	Listening on port 20841
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24332, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1532569848889	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532569866754	geckodriver	INFO	geckodriver 0.21.0
+1532569866761	geckodriver	INFO	Listening on 127.0.0.1:20932
+1532569869760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.vN2NFixwectM"
+*** You are running in headless mode.
+1532569877448	Marionette	INFO	Listening on port 20944
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532569877480	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532569922558	geckodriver	INFO	geckodriver 0.21.0
+1532569922565	geckodriver	INFO	Listening on 127.0.0.1:21067
+1532569925594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.rX7Z5SNQRKMQ"
+*** You are running in headless mode.
+1532569932379	Marionette	INFO	Listening on port 21079
+1532569932716	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532570076347	geckodriver	INFO	geckodriver 0.21.0
+1532570076363	geckodriver	INFO	Listening on 127.0.0.1:21372
+1532570079377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.CFxtA6eIrVFF"
+*** You are running in headless mode.
+1532570082935	Marionette	INFO	Listening on port 21386
+1532570083448	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532570318600	geckodriver	INFO	geckodriver 0.21.0
+1532570318617	geckodriver	INFO	Listening on 127.0.0.1:21812
+1532570321653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.3CBYRuY7PgqX"
+*** You are running in headless mode.
+1532570326178	Marionette	INFO	Listening on port 21824
+1532570327338	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532570589408	geckodriver	INFO	geckodriver 0.21.0
+1532570589422	geckodriver	INFO	Listening on 127.0.0.1:22488
+1532570592423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.f2DKmLtdcl3O"
+*** You are running in headless mode.
+1532570598306	Marionette	INFO	Listening on port 22502
+1532570598436	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571043090	geckodriver	INFO	geckodriver 0.21.0
+1532571043108	geckodriver	INFO	Listening on 127.0.0.1:23494
+1532571046137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.31MB0NVV5zAf"
+*** You are running in headless mode.
+1532571049627	Marionette	INFO	Listening on port 23506
+1532571049989	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571284638	geckodriver	INFO	geckodriver 0.21.0
+1532571284651	geckodriver	INFO	Listening on 127.0.0.1:23917
+1532571287767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.O2EJs0h9pVAE"
+*** You are running in headless mode.
+1532571290965	Marionette	INFO	Listening on port 23929
+1532571290986	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571318421	geckodriver	INFO	geckodriver 0.21.0
+1532571318429	geckodriver	INFO	Listening on 127.0.0.1:24009
+1532571321480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.28Fgtoxx6Us4"
+*** You are running in headless mode.
+1532571324988	Marionette	INFO	Listening on port 24023
+1532571325583	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571420210	geckodriver	INFO	geckodriver 0.21.0
+1532571420224	geckodriver	INFO	Listening on 127.0.0.1:24210
+1532571423279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.xa6LYZ2oDWE7"
+*** You are running in headless mode.
+1532571428064	Marionette	INFO	Listening on port 24222
+1532571429023	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571837617	geckodriver	INFO	geckodriver 0.21.0
+1532571837628	geckodriver	INFO	Listening on 127.0.0.1:24909
+1532571840671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.yYbaaAMRI36M"
+*** You are running in headless mode.
+1532571844462	Marionette	INFO	Listening on port 24921
+1532571845009	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571898844	geckodriver	INFO	geckodriver 0.21.0
+1532571898862	geckodriver	INFO	Listening on 127.0.0.1:25048
+1532571901945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.FLAU3XOO4I1v"
+*** You are running in headless mode.
+1532571905073	Marionette	INFO	Listening on port 25060
+1532571905344	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532571921528	geckodriver	INFO	geckodriver 0.21.0
+1532571921542	geckodriver	INFO	Listening on 127.0.0.1:25128
+1532571924588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.G10G5DgYyAxI"
+*** You are running in headless mode.
+1532571930600	Marionette	INFO	Listening on port 25140
+1532571930615	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532572183797	geckodriver	INFO	geckodriver 0.21.0
+1532572183806	geckodriver	INFO	Listening on 127.0.0.1:25609
+1532572186871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.7gP64qWBBjdL"
+*** You are running in headless mode.
+1532572190432	Marionette	INFO	Listening on port 25621
+1532572190883	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532572329670	geckodriver	INFO	geckodriver 0.21.0
+1532572329682	geckodriver	INFO	Listening on 127.0.0.1:26069
+1532572332691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.y2AwRe6QrKgI"
+*** You are running in headless mode.
+1532572343269	Marionette	INFO	Listening on port 26082
+1532572343621	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532572490759	geckodriver	INFO	geckodriver 0.21.0
+1532572490772	geckodriver	INFO	Listening on 127.0.0.1:26700
+1532572493715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.BATtINnw2ye3"
+*** You are running in headless mode.
+1532572499226	Marionette	INFO	Listening on port 26715
+1532572499506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532573256090	geckodriver	INFO	geckodriver 0.21.0
+1532573256100	geckodriver	INFO	Listening on 127.0.0.1:28096
+1532573259129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.6YB20ycNA9oe"
+*** You are running in headless mode.
+1532573262593	Marionette	INFO	Listening on port 28108
+1532573262944	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532573746048	geckodriver	INFO	geckodriver 0.21.0
+1532573746059	geckodriver	INFO	Listening on 127.0.0.1:28893
+1532573749063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.aLuZCYvQSeWn"
+*** You are running in headless mode.
+1532573752769	Marionette	INFO	Listening on port 28906
+1532573752913	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532583423212	geckodriver	INFO	geckodriver 0.21.0
+1532583423219	geckodriver	INFO	Listening on 127.0.0.1:39821
+1532583426314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.RTPGVJIW5o6j"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 41332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532583449246	Marionette	INFO	Listening on port 39840
+1532583449374	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532583492909	geckodriver	INFO	geckodriver 0.21.0
+1532583492922	geckodriver	INFO	Listening on 127.0.0.1:40002
+1532583497305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.lL1FMaS6zHsI"
+*** You are running in headless mode.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0042,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0042,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0042,name=PContent::Msg_LoadProcessScript) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0107,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0055,name=PContent::Msg_ProvideAnonymousTemporaryFile) Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 41868, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 41868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 36340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 37424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532583626915	addons.manager	ERROR	Failure during AddonRepository shutdown: Error: The object has been already finalized. (resource://gre/modules/DeferredTask.jsm:242:13) JS Stack trace: finalize@DeferredTask.jsm:242:13
+shutdown@AddonRepository.jsm:875:19
+shutdown@AddonRepository.jsm:323:12
+shutdownManager@AddonManager.jsm:1073:13
+observe@AsyncShutdown.jsm:541:9
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  AddonManager: shutting down.
+          Phase: profile-before-change
+          State: [{"name":"AddonRepository: async shutdown","state":"in progress"}]
+WARNING: Error: The object has been already finalized.
+WARNING: finalize@resource://gre/modules/DeferredTask.jsm:242:13
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:875:19
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:323:12
+shutdownManager@resource://gre/modules/AddonManager.jsm:1073:13
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 242: Error: The object has been already finalized.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+1532583643820	geckodriver	INFO	geckodriver 0.21.0
+1532583643827	geckodriver	INFO	Listening on 127.0.0.1:40350
+1532583646799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.lqiPTer33JCj"
+*** You are running in headless mode.
+1532583671502	Marionette	INFO	Listening on port 40363
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532583671560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532583750197	geckodriver	INFO	geckodriver 0.21.0
+1532583750206	geckodriver	INFO	Listening on 127.0.0.1:40580
+1532583753225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.FULB8kDuGWml"
+*** You are running in headless mode.
+1532583771466	Marionette	INFO	Listening on port 40592
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 42584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532583771862	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532658304812	geckodriver	INFO	geckodriver 0.21.0
+1532658304822	geckodriver	INFO	Listening on 127.0.0.1:4534
+1532658307813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.KvVUft5GooFd"
+*** You are running in headless mode.
+1532658317701	Marionette	INFO	Listening on port 4584
+1532658317789	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532660472583	geckodriver	INFO	geckodriver 0.21.0
+1532660472592	geckodriver	INFO	Listening on 127.0.0.1:9788
+1532660475591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.bzmsAgMRl1fg"
+*** You are running in headless mode.
+1532660478959	Marionette	INFO	Listening on port 9818
+1532660479413	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.99lib.net/command/99csw.js line 1 > eval, line 1: unreachable code after return statement
+1532675032162	geckodriver	INFO	geckodriver 0.21.0
+1532675032170	geckodriver	INFO	Listening on 127.0.0.1:28011
+1532675035249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.PaseP7bCSs43"
+*** You are running in headless mode.
+1532675056572	Marionette	INFO	Listening on port 28026
+1532675056695	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10676, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532675129183	geckodriver	INFO	geckodriver 0.21.0
+1532675129195	geckodriver	INFO	Listening on 127.0.0.1:28371
+1532675132198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.k8xE7ZDEIAB2"
+*** You are running in headless mode.
+1532675143057	Marionette	INFO	Listening on port 28384
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532675143127	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532935965115	geckodriver	INFO	geckodriver 0.21.0
+1532935965127	geckodriver	INFO	Listening on 127.0.0.1:11101
+1532935968086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.BdzHmd2656tf"
+*** You are running in headless mode.
+1532935978716	Marionette	INFO	Listening on port 11117
+1532935979004	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532936082571	geckodriver	INFO	geckodriver 0.21.0
+1532936082581	geckodriver	INFO	Listening on 127.0.0.1:11357
+1532936085860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.pqQdsXCq1Daa"
+*** You are running in headless mode.
+1532936095931	Marionette	INFO	Listening on port 11369
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532936096284	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1532936132936	geckodriver	INFO	geckodriver 0.21.0
+1532936132948	geckodriver	INFO	Listening on 127.0.0.1:11499
+1532936135947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.iv3rAqS6IY0m"
+*** You are running in headless mode.
+1532936148433	Marionette	INFO	Listening on port 11512
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 18332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1532936148572	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533015931195	geckodriver	INFO	geckodriver 0.21.0
+1533015931202	geckodriver	INFO	Listening on 127.0.0.1:14908
+1533015934197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.eqcsFjczWCW9"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20064, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1533015950343	Marionette	INFO	Listening on port 14924
+1533015950859	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533025590235	geckodriver	INFO	geckodriver 0.21.0
+1533025590254	geckodriver	INFO	Listening on 127.0.0.1:31753
+1533025593277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.1nVVfeADYSdC"
+*** You are running in headless mode.
+1533025607457	Marionette	INFO	Listening on port 31774
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533025607501	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533025832619	geckodriver	INFO	geckodriver 0.21.0
+1533025832631	geckodriver	INFO	Listening on 127.0.0.1:32206
+1533025835651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.x0PB42uN2Ja4"
+*** You are running in headless mode.
+1533025842313	Marionette	INFO	Listening on port 32219
+1533025842772	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026000274	geckodriver	INFO	geckodriver 0.21.0
+1533026000282	geckodriver	INFO	Listening on 127.0.0.1:32553
+1533026003274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.1Ch0olpkfPnb"
+*** You are running in headless mode.
+1533026009467	Marionette	INFO	Listening on port 32566
+1533026009790	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026195170	geckodriver	INFO	geckodriver 0.21.0
+1533026195179	geckodriver	INFO	Listening on 127.0.0.1:32978
+1533026198227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.BwJnhI2lUoEA"
+*** You are running in headless mode.
+1533026202248	Marionette	INFO	Listening on port 32992
+1533026202554	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026288769	geckodriver	INFO	geckodriver 0.21.0
+1533026288777	geckodriver	INFO	Listening on 127.0.0.1:33173
+1533026291767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.CgZ8bF928J5e"
+*** You are running in headless mode.
+1533026298301	Marionette	INFO	Listening on port 33185
+1533026298430	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026377685	geckodriver	INFO	geckodriver 0.21.0
+1533026377693	geckodriver	INFO	Listening on 127.0.0.1:33364
+1533026380724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.qsIFDOw47bXI"
+*** You are running in headless mode.
+1533026384020	Marionette	INFO	Listening on port 33377
+1533026384231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026698079	geckodriver	INFO	geckodriver 0.21.0
+1533026698089	geckodriver	INFO	Listening on 127.0.0.1:33967
+1533026701084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.eM3T1atvIaoC"
+*** You are running in headless mode.
+1533026704492	Marionette	INFO	Listening on port 33979
+1533026705369	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026802028	geckodriver	INFO	geckodriver 0.21.0
+1533026802036	geckodriver	INFO	Listening on 127.0.0.1:34185
+1533026805048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.EnQtto6fb6DL"
+*** You are running in headless mode.
+1533026810839	Marionette	INFO	Listening on port 34202
+1533026811060	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026871554	geckodriver	INFO	geckodriver 0.21.0
+1533026871563	geckodriver	INFO	Listening on 127.0.0.1:34375
+1533026874567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.4rSdxRZgEgS1"
+*** You are running in headless mode.
+1533026887854	Marionette	INFO	Listening on port 34387
+1533026888292	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533026960764	geckodriver	INFO	geckodriver 0.21.0
+1533026960771	geckodriver	INFO	Listening on 127.0.0.1:34580
+1533026963771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.2D0MIVh5yKeC"
+*** You are running in headless mode.
+1533026967060	Marionette	INFO	Listening on port 34593
+1533026967384	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533027082532	geckodriver	INFO	geckodriver 0.21.0
+1533027082540	geckodriver	INFO	Listening on 127.0.0.1:34838
+1533027085557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.1hjnmiJ7Mex8"
+*** You are running in headless mode.
+1533027092718	Marionette	INFO	Listening on port 34850
+1533027093171	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533027211552	geckodriver	INFO	geckodriver 0.21.0
+1533027211565	geckodriver	INFO	Listening on 127.0.0.1:35087
+1533027214580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.K75jcTPsjm3o"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533027221855	Marionette	INFO	Listening on port 35105
+1533027222199	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533027320128	geckodriver	INFO	geckodriver 0.21.0
+1533027320143	geckodriver	INFO	Listening on 127.0.0.1:35308
+1533027323185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.3sQNa5DqkPrL"
+*** You are running in headless mode.
+1533027326118	Marionette	INFO	Listening on port 35320
+1533027326397	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533027396205	geckodriver	INFO	geckodriver 0.21.0
+1533027396213	geckodriver	INFO	Listening on 127.0.0.1:35480
+1533027399224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.Y8mJejkfp7Nn"
+*** You are running in headless mode.
+1533027405661	Marionette	INFO	Listening on port 35492
+1533027405738	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533027974319	geckodriver	INFO	geckodriver 0.21.0
+1533027974327	geckodriver	INFO	Listening on 127.0.0.1:36467
+1533027977345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.omIySuVbd84d"
+*** You are running in headless mode.
+1533027980620	Marionette	INFO	Listening on port 36480
+1533027980856	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533028019171	geckodriver	INFO	geckodriver 0.21.0
+1533028019179	geckodriver	INFO	Listening on 127.0.0.1:36580
+1533028022213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.4OhX9hObMMI9"
+*** You are running in headless mode.
+1533028035136	Marionette	INFO	Listening on port 36592
+1533028035763	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533028151746	geckodriver	INFO	geckodriver 0.21.0
+1533028151757	geckodriver	INFO	Listening on 127.0.0.1:36912
+1533028154767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.sRHeKWok6jUy"
+*** You are running in headless mode.
+1533028158072	Marionette	INFO	Listening on port 36925
+1533028158326	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533028261687	geckodriver	INFO	geckodriver 0.21.0
+1533028261709	geckodriver	INFO	Listening on 127.0.0.1:37141
+1533028264718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.JTLX83H2TNLr"
+*** You are running in headless mode.
+1533028280339	Marionette	INFO	Listening on port 37154
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 31340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533028280637	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533028329702	geckodriver	INFO	geckodriver 0.21.0
+1533028329711	geckodriver	INFO	Listening on 127.0.0.1:37301
+1533028332714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.ADa1q7dpMOut"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0055,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1533028347011	Marionette	INFO	Listening on port 37313
+1533028347045	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533029886892	geckodriver	INFO	geckodriver 0.21.0
+1533029886907	geckodriver	INFO	Listening on 127.0.0.1:40459
+1533029889928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.tPB3DfzoR7s7"
+*** You are running in headless mode.
+1533029914165	Marionette	INFO	Listening on port 40471
+1533029914663	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
+1533030126453	geckodriver	INFO	geckodriver 0.21.0
+1533030126460	geckodriver	INFO	Listening on 127.0.0.1:40928
+1533030129510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofile.DcORTTZz7TtG"
+*** You are running in headless mode.
+1533030136104	Marionette	INFO	Listening on port 40941
+1533030136126	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Dell\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.99lib.net/command/99csw.js, line 1: unreachable code after return statement
